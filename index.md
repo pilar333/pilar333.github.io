@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-        	<h1>Hi there, I'm Pilar!</h1>
+        	<h1>My Personal Website</h1>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
